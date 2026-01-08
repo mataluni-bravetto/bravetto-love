@@ -1,0 +1,29 @@
+# 🌿 AbëLOVE Workspace — What NOT to save to the cloud
+
+# System files (your computer's clutter, not your work)
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor settings that are just for you
+.vscode/settings.json
+
+# Sensitive files (anything with passwords or secrets)
+*.secret
+*.env
+credentials.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Large files that shouldn't be stored in Git
+*.zip
+*.tar.gz
+*.mov
+*.mp4
+
+# That's it! Everything else will be saved and synced. 💚
+

@@ -1,0 +1,69 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "🔍 DEEP RESEARCH: Vet a Partner",
+      "type": "shell",
+      "command": "bash",
+      "args": ["${workspaceFolder}/scripts/deep-research.sh"],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "focus": true
+      },
+      "detail": "Research a company or person — get a full dossier on values alignment, contacts, and risks."
+    },
+    {
+      "label": "🗓️ CREATE NEW EVENT",
+      "type": "shell",
+      "command": "bash",
+      "args": ["${workspaceFolder}/scripts/create-event.sh"],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "focus": true
+      },
+      "detail": "Create a new event folder with Budget, Itinerary, and Guest List templates."
+    },
+    {
+      "label": "☁️ SAVE & SYNC TO CLOUD",
+      "type": "shell",
+      "command": "git add . && git commit -m 'Love Update: $(date +%Y-%m-%d)' && git push",
+      "options": {
+        "cwd": "${workspaceFolder}/.."
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "focus": true
+      },
+      "detail": "Safely backup your work to the team's shared storage (like pressing Save to the Cloud)."
+    },
+    {
+      "label": "📧 DRAFT COMMUNICATIONS",
+      "type": "shell",
+      "command": "code",
+      "args": ["${workspaceFolder}/bridge/COMMUNICATIONS_DRAFT.md"],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "silent"
+      },
+      "detail": "Open the communications template — bullet your thoughts and AbëONE will polish them."
+    },
+    {
+      "label": "🏠 GO HOME",
+      "type": "shell",
+      "command": "code",
+      "args": ["${workspaceFolder}/README.md"],
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "silent"
+      },
+      "detail": "Return to your Home Screen dashboard."
+    }
+  ]
+}
+
