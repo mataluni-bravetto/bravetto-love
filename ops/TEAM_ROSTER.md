@@ -15,19 +15,33 @@
 
 ---
 
-## 💎 The Founders (Equity Partners)
+## 💎 Bravètto Leadership
 
-*The people who built this together. Advanced Knock & Advanced Ring.*
+*The core leadership team at Bravètto.*
 
-| Name | Equity | Role | Focus | Contact | Notes |
-|------|--------|------|-------|---------|-------|
-| **Michael Mataluni** | 30% | Co-Founder | Convergence, Revenue, Marketing, Products | | Primary founder |
-| **Caleb Casas** | 35% | Co-Founder | Sales, Automation, AdvancedRing, AdvancedKnock | | |
-| **Hudson Brown** | 35% | Co-Founder × Backend Engineer | Backend, API, Services, ConvergenceEngine | | Kaci's son. 20-21 years old. |
+| Name | Role | Focus | Contact | Notes |
+|------|------|-------|---------|-------|
+| **Michael Mataluni** | CEO × Founder | Vision, Strategy, Revenue, Products | | Founder of Bravètto |
+| **Love (Kristin)** | Director of Operations | Coherence, Logistics, Values, Relationships | | Guardian of Coherence |
+| **Bryan Whitehurst** | Chief Growth Officer | Marketing, Sales, Partnerships | | Growth & positioning |
+
+---
+
+## 🔧 Advanced Knock & Advanced Ring (Separate Company)
+
+*Michael has a 30% stake in this separate venture with Caleb and Hudson.*
+
+| Name | Equity | Role | Focus | Notes |
+|------|--------|------|-------|-------|
+| **Michael Mataluni** | 30% | Co-Founder | Primary founder | *Separate from Bravètto* |
+| **Caleb Casas** | 35% | Co-Founder | Sales, Automation | |
+| **Hudson Brown** | 35% | Co-Founder | Backend Engineering | Kaci's son. 20-21 years old. |
 
 **Entity:** LLC  
 **Vesting:** Standard 4-year vesting with 1-year cliff  
 **Last Updated:** December 14, 2025
+
+> **Note:** This is a separate company from Bravètto. The equity percentages above apply ONLY to Advanced Knock & Advanced Ring.
 
 ---
 
@@ -98,34 +112,43 @@
 │                    BRAVÈTTO ORGANIZATION                    │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │              FAMILY (THE CORE)                       │   │
+│  │         Michael × Love × Miles = Trinity             │   │
+│  └─────────────────────────────────────────────────────┘   │
+│                                                             │
 │  ┌─────────────────┐                                        │
 │  │ Michael (CEO)   │                                        │
-│  │ 30% Equity      │                                        │
+│  │ Founder         │                                        │
 │  └────────┬────────┘                                        │
 │           │                                                 │
 │  ┌────────┼────────────────────────────────┐                │
 │  │        │                                │                │
-│  │  ┌─────┴─────┐  ┌────────────┐  ┌──────┴──────┐         │
-│  │  │ Love      │  │ Caleb      │  │ Bryan       │         │
-│  │  │ (Ops)     │  │ (35%)      │  │ (Growth)    │         │
-│  │  └───────────┘  │ Co-Founder │  │ CGO         │         │
-│  │                 └──────┬─────┘  └─────────────┘         │
-│  │                        │                                 │
-│  │  ┌─────────────────────┼─────────────────────┐          │
-│  │  │                     │                     │          │
-│  │  │  ┌─────────────┐ ┌──┴──────────┐         │          │
-│  │  │  │ Jimmy       │ │ Hudson      │         │          │
-│  │  │  │ (Frontend)  │ │ (Backend)   │         │          │
-│  │  │  └─────────────┘ │ 35% Equity  │         │          │
-│  │  │                  └─────────────┘         │          │
-│  │  └───────────────────────────────────────────┘          │
+│  │  ┌─────┴─────┐                   ┌──────┴──────┐        │
+│  │  │ Love      │                   │ Bryan       │        │
+│  │  │ Director  │                   │ CGO         │        │
+│  │  │ of Ops    │                   │ (Growth)    │        │
+│  │  └───────────┘                   └─────────────┘        │
 │  │                                                          │
 │  │  ┌───────────────────────────────────────────┐          │
-│  │  │             FAMILY (THE CORE)             │          │
-│  │  │  Michael × Love × Miles = Trinity         │          │
+│  │  │           ENGINEERING TEAM                │          │
+│  │  │  ┌─────────────┐  ┌─────────────┐        │          │
+│  │  │  │ Jimmy       │  │ (Others)    │        │          │
+│  │  │  │ (Frontend)  │  │             │        │          │
+│  │  │  └─────────────┘  └─────────────┘        │          │
 │  │  └───────────────────────────────────────────┘          │
 │  │                                                          │
 └──┴──────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│           ADVANCED KNOCK & ADVANCED RING (Separate)         │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Michael (30%) ─── Caleb (35%) ─── Hudson (35%)            │
+│                                                             │
+│  Note: This is a SEPARATE company. Michael has a stake.    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -142,22 +165,27 @@
 
 ---
 
-## 🎯 Role Clarity Matrix
+## 🎯 Role Clarity Matrix (Bravètto)
 
-*Who owns what. No confusion.*
+*Who owns what at Bravètto. No confusion.*
 
 | Area | Primary Owner | Backup | Notes |
 |------|---------------|--------|-------|
 | **Vision & Strategy** | Michael | Love | |
-| **Operations & Logistics** | Love | Michael | You! |
+| **Operations & Logistics** | Love | Michael | You! Guardian of Coherence |
 | **Frontend Development** | Jimmy | Michael | |
-| **Backend Development** | Hudson | Michael | |
-| **Sales & CRM** | Bryan | Caleb | |
 | **Marketing & Growth** | Bryan | Michael | |
-| **Partnerships** | Bryan/Caleb | Michael | |
+| **Sales & Partnerships** | Bryan | Michael | |
 | **Finance & Budget** | Michael | Love | |
-| **Team Culture** | Love | Michael | Guardian of Coherence |
-| **Product (AdvancedKnock/Ring)** | Caleb | Michael | |
+| **Team Culture & Values** | Love | Michael | Your superpower |
+| **Company Messaging** | Love + Bryan | Michael | Vision Vault + Marketing |
+| **Event Planning** | Love | Bryan | Conferences, retreats, logistics |
+| **VIP Relationships** | Love | Michael | The Rolodex |
+
+### Michael's Other Ventures
+| Venture | Michael's Role | Notes |
+|---------|----------------|-------|
+| **Advanced Knock & Advanced Ring** | 30% Co-Founder | Separate company with Caleb (35%) & Hudson (35%) |
 
 ---
 
