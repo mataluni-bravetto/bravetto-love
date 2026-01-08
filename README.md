@@ -32,9 +32,10 @@
 | [**📅 Events Dashboard**](./ops/EVENTS.md) | Command center for events, trips, logistics |
 | [**📋 Event Templates**](./ops/templates/) | Conference, retreat, negotiation blueprints |
 
-### 🤝 Relationships
+### 🤝 Relationships & Team
 | Button | What It Does |
 |--------|--------------|
+| [**👥 Team Roster**](./ops/TEAM_ROSTER.md) | Your people — founders, engineers, growth team |
 | [**🤝 The Rolodex**](./ops/VIP_CONTACTS.md) | Your curated VIP relationship database |
 | [**💫 Touch Base Tracker**](./ops/TOUCH_BASE.md) | Who needs attention? Nurture your network |
 
